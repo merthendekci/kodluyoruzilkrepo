@@ -4,10 +4,10 @@ Bu repo [Kodluyoruz](https://kodluyoruz.org/) Front-End Eğitiminde oluşturduğ
 
 # Installation
 
-Öncelikle projeyi clonelayın. (https://github.com/1912alin/kodluyoruzilkrepo.git)
+Öncelikle projeyi clonelayın. (https://github.com/merthendekci/kodluyoruzilkrepo.git)
 
 ```
-git clone https://github.com/1912alin/kodluyoruzilkrepo.git
+git clone https://github.com/merthendekci/kodluyoruzilkrepo.git
 ```
 
 # Usage
@@ -34,4 +34,4 @@ Pull requestler kabul edilir. Büyük değişikler için, lütfen önce neyi de�
 
 # Patika.dev Linki
 
-[Patika | nisacerenunnu](https://app.patika.dev/nisacerenunnu)
+[Patika | nisacerenunnu](https://app.patika.dev/merth)
