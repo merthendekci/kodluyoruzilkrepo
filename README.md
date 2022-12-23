@@ -34,4 +34,4 @@ Pull requestler kabul edilir. Büyük değişikler için, lütfen önce neyi de�
 
 # Patika.dev Linki
 
-[Patika | nisacerenunnu](https://app.patika.dev/merth)
+[Patika | merth](https://app.patika.dev/merth)
